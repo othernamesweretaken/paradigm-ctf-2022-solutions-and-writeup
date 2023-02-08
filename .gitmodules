@@ -4,3 +4,6 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/rari-capital/solmate
+[submodule "crunchvanity"]
+	path = crunchvanity
+	url = https://github.com/hrkrshnn/crunchvanity.git
